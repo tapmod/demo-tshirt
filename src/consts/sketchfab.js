@@ -11,7 +11,7 @@ export const modelOptions = {
   ui_controls: 0,
   ui_stop: 0,
   ui_help: 0,
-  ui_hint: 1,
+  ui_hint: 2,
   ui_general_controls: 0,
   ui_watermark: 0,
   transparent: 0,
