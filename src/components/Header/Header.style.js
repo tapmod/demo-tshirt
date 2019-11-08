@@ -3,13 +3,13 @@ import theme from 'consts/theme';
 import LogoImage from './logo.png';
 
 export const HeadingWrapper = styled.div`
-  background-color: ${theme.colors.white};
   padding-top: ${theme.space.medium}px;
   padding-bottom: ${theme.space.medium}px;
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
+  background-color: ${theme.colors.white};
 
   ${theme.mediaQueries.large} {
     background-color: ${theme.colors.primary};
