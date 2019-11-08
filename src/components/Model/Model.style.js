@@ -8,7 +8,7 @@ export const Wrapper = styled.div`
   background-color: #f5f5f5;
   iframe {
     border: none;
-    height: calc(100% - 50px);
+    height: calc(100% - 85px);
     width: 100%;
     opacity: ${({ isLoading }) => (isLoading ? 0 : 1)};
   }
