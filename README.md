@@ -1,8 +1,13 @@
-# Tapmod boilerplate
+# Tapmod Live Model Demo
 
-This is boilerplate project for all other tapmod projects.
+This is Live Model demo project which can be used for the testing integration with a webpage.
 
-## Guidelines
+Ways of usage:
+
+- insert as an `iframe` with `https://demo.tapmod.studio`
+- insert as a build React app (see instructions below how to do that)
+
+Logic integration is always an individually implemented step and depends on the environment which will contain our Live Model application.
 
 ## Available Scripts
 
