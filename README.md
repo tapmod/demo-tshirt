@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7ea80ea0-c84f-458d-9ee9-8850f841099a/deploy-status)](https://app.netlify.com/sites/amazing-mccarthy-331bc9/deploys)
+
 # Tapmod Live Model Demo
 
 This is Live Model demo project which can be used for the testing integration with a webpage.
