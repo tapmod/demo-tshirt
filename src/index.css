@@ -37,7 +37,7 @@ code {
   flex: 1;
   flex-direction: column;
   background-color: rgba(239, 239, 239, 1);
-  height: 100vh;
   height: calc(var(--vh, 1vh) * 100);
   width: 100vw;
+  overflow: hidden;
 }

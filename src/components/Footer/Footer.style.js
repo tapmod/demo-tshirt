@@ -3,8 +3,8 @@ import theme from 'consts/theme';
 import LogoImage from './logo.png';
 
 export const FootingWrapper = styled.div`
-  height: 35px;
-  min-height: 35px;
+  height: 30px;
+  min-height: 30px;
   display: flex;
   flex-direction: row;
   justify-content: center;

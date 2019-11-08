@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import theme from 'consts/theme';
 
 export const Wrapper = styled.div`
-  height: 100%;
+  height: calc(100% - 80px);
   width: 100%;
   position: relative;
   background-color: #f5f5f5;
