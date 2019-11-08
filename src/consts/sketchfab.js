@@ -11,12 +11,12 @@ export const modelOptions = {
   ui_controls: 0,
   ui_stop: 0,
   ui_help: 0,
-  ui_hint: 0,
+  ui_hint: 1,
   ui_general_controls: 0,
   ui_watermark: 0,
-  transparent: 1,
-  scrollwheel: 0,
-  double_click: 0
+  transparent: 0,
+  scrollwheel: 1,
+  double_click: 1
 };
 
-export const modelUid = '0d1ef34e6de64628b83faa380293756a';
+export const modelUid = 'dd3e32016f4b452da4c3b983ec55edd6';

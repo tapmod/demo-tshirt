@@ -1,7 +1,7 @@
 const colors = {
   blue: '#07c',
   green: '#0fa',
-  primary: '#e4695b',
+  primary: '#333',
   white: '#f8f8ff'
 };
 

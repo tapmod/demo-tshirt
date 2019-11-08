@@ -4,10 +4,10 @@ import Header from 'components/Header';
 
 function App() {
   return (
-    <div>
+    <React.Fragment>
       <Header />
       <Model />
-    </div>
+    </React.Fragment>
   );
 }
 

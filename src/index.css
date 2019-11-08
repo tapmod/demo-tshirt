@@ -32,5 +32,10 @@ code {
 }
 
 #root {
-  height: inherit;
+  /* height: inherit; */
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
 }
