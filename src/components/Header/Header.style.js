@@ -2,8 +2,7 @@ import styled from 'styled-components';
 import theme from 'consts/theme';
 
 export const HeadingWrapper = styled.div`
-  padding-top: ${theme.space.medium}px;
-  padding-bottom: ${theme.space.medium}px;
+  height: 50px;
   display: flex;
   flex-direction: row;
   justify-content: center;

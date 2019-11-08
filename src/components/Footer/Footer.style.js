@@ -3,8 +3,7 @@ import theme from 'consts/theme';
 import LogoImage from './logo.png';
 
 export const FootingWrapper = styled.div`
-  padding-top: ${theme.space.medium}px;
-  padding-bottom: ${theme.space.medium}px;
+  height: 30px;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -19,6 +18,7 @@ export const FootingWrapper = styled.div`
 export const Logo = styled.div`
   height: 30px;
   width: 30px;
+  max-height: 90%;
   background-image: url(${LogoImage});
   background-position: center;
   background-size: contain;
@@ -37,7 +37,7 @@ export const Heading = styled.h1`
   text-align: center;
   text-transform: uppercase;
   color: ${theme.colors.primary};
-  font-size: 14px;
+  font-size: 12px;
   line-height: 20px;
   margin: 0;
 

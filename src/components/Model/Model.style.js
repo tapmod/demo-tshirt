@@ -44,8 +44,8 @@ export const ButtonsWrapper = styled.div`
 
 export const ColorButton = styled.div`
   pointer-events: all;
-  height: 30px;
-  width: 30px;
+  height: 25px;
+  width: 25px;
   box-sizing: border-box;
   border-radius: 100%;
   margin: auto 5px;
