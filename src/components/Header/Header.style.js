@@ -3,6 +3,7 @@ import theme from 'consts/theme';
 
 export const HeadingWrapper = styled.div`
   height: 50px;
+  min-height: 50px;
   display: flex;
   flex-direction: row;
   justify-content: center;
