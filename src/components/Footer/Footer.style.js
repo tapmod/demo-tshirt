@@ -3,7 +3,7 @@ import theme from 'consts/theme';
 import LogoImage from './logo.png';
 
 export const FootingWrapper = styled.div`
-  height: 30px;
+  height: 35px;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -29,7 +29,7 @@ export const TextWrapper = styled.div`
   display: flex;
   flex-direction: column;
   text-align: center;
-  margin-left: 10px;
+  margin-left: 6px;
 `;
 
 export const Heading = styled.h1`
